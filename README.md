@@ -33,3 +33,4 @@ https://store-nine-indol.vercel.app/
 - **3.** Pipes.
 - **4.** Directives.
 - **5.** RouterLinkActive.
+- **6.** Responsive design.
