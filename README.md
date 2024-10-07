@@ -25,3 +25,11 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## To visit it online, use the following link:
 
 https://store-nine-indol.vercel.app/
+
+### Some concepts covered:
+
+- **1.** Components (ngOnChanges).
+- **2.** Services.
+- **3.** Pipes.
+- **4.** Directives.
+- **5.** RouterLinkActive.
